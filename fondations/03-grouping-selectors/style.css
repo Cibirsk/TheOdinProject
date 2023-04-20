@@ -1,0 +1,14 @@
+.B1,
+.B2 {
+    font-size: 36px;
+}
+
+.B1 {
+    background: black;
+    color: white;
+}
+
+.B2 {
+    background: yellow;
+    color: black;
+}
